@@ -68,4 +68,18 @@ Software Engineer | DEI Advocate | Coffee drinker
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&layout=compact&theme=nord)](https://github.com/djperezh/github-readme-stats)
+<p>
+<a href="https://github.com/djperezh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=20" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/djperezh/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djperezh&theme=solarized-dark&show_icons=true&hide=issues" />
+</a>
+</p>
+
+<p class="aligncenter">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djperezh&theme=solarized-dark" alt="dom-perez" />
+</p>
