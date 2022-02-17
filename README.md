@@ -71,7 +71,7 @@ Software Engineer | DEI Advocate | Coffee drinker
 
 <p>
 <a href="https://github.com/djperezh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=10&exclude_repo=fabmedical,ebooks" />
 </a>
 </p>
 
