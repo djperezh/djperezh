@@ -65,7 +65,7 @@ Software Engineer | DEI Advocate | Coffee drinker
 
 > Experience
 <p>
-  <img alt="Volta" src="https://img.shields.io/badge/Volta-green?logoColor=white&style=for-the-badge" />
+  <img alt="Volta" src="https://img.shields.io/badge/Volta-gray?logoColor=white&style=for-the-badge" />
   <img alt="DocuSign" src="https://img.shields.io/badge/DocuSign-yellowgreen?logoColor=white&style=for-the-badge" />
   <img alt="Smartsheet" src="https://img.shields.io/badge/Smartsheet-3178C6?logoColor=white&style=for-the-badge" />
   <br>
