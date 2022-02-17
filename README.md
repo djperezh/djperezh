@@ -20,14 +20,13 @@ Software Engineer | DEI Advocate | Coffee drinker
   <br>
 </p>
 
----
 
-# Skills
+# Strenghts
 
 > Software
 
 <p>
-  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-yellowgreen?logo=altiumdesigner&logoColor=white&color=2bbc8a&style=for-the-badge" />
+  <img alt="Architecture" src="https://img.shields.io/badge/Architecture-yellowgreen?logo=altiumdesigner&logoColor=white&style=for-the-badge" />
   <img alt="Design" src="https://img.shields.io/badge/Design-red?logo=peakdesign&logoColor=white&style=for-the-badge" />
   <br>
   <img alt="Cloud Development" src="https://img.shields.io/badge/Cloud Development-orange?logo=icloud&logoColor=white&style=for-the-badge" />
@@ -63,39 +62,40 @@ Software Engineer | DEI Advocate | Coffee drinker
 </p>
 
 
-> Experience
+# Professional Journey
 <p>
-  <img alt="Volta" src="https://img.shields.io/badge/Volta-gray?logoColor=white&style=for-the-badge" />
-  <img alt="DocuSign" src="https://img.shields.io/badge/DocuSign-yellowgreen?logoColor=white&style=for-the-badge" />
-  <img alt="Smartsheet" src="https://img.shields.io/badge/Smartsheet-3178C6?logoColor=white&style=for-the-badge" />
+  <img alt="Volta" src="https://img.shields.io/badge/Current-Volta-yellowgreen?logoColor=white&style=for-the-badge" />
   <br>
-  <img alt="Expedia" src="https://img.shields.io/badge/Expedia-yellow?logoColor=white&style=for-the-badge" />
-  <img alt="Efinancial" src="https://img.shields.io/badge/Efinancial-orange?logoColor=white&style=for-the-badge" />
-  <br>
-  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-336791?logoColor=white&style=for-the-badge" />
-  <img alt="Esurance" src="https://img.shields.io/badge/Esurance-9cf?logoColor=white&style=for-the-badge" />
-  <img alt="Walmart" src="https://img.shields.io/badge/Wal*Mart-red?logoColor=white&style=for-the-badge" />
+  <img alt="DocuSign" src="https://img.shields.io/badge/2021-DocuSign-yellowgreen?logoColor=white&color=2bbc8a&style=flat-square" />
+  <img alt="Smartsheet" src="https://img.shields.io/badge/2020-Smartsheet-3178C6?logoColor=white&style=flat-square" />
+  <img alt="Expedia" src="https://img.shields.io/badge/2018-Expedia-yellow?logoColor=white&style=flat-square" />
+  <img alt="Efinancial" src="https://img.shields.io/badge/2014-Efinancial-orange?logoColor=white&style=flat-square" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/2012-Microsoft-336791?logoColor=white&style=flat-square" />
+  <img alt="Esurance" src="https://img.shields.io/badge/2010-Esurance-9cf?logoColor=white&style=flat-square" />
+  <img alt="Walmart" src="https://img.shields.io/badge/2008-Wal*Mart-red?logoColor=white&style=flat-square" />
 </p>
 
----
 
 # Articles
-- [Code Reviews 101](https://www.linkedin.com/pulse/code-reviews-101-domingo-perez)
+> [Code Reviews 101](https://www.linkedin.com/pulse/code-reviews-101-domingo-perez)
 
----
 
-<p>
-<a href="https://github.com/djperezh/github-readme-stats">
+<p><br><br></p>
+<p class="aligncenter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=10&exclude_repo=fabmedical,ebooks" />
-</a>
 </p>
 
-<p>
-<a href="https://github.com/djperezh/github-readme-stats">
+<p class="aligncenter">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=djperezh&theme=solarized-dark&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />
-</a>
 </p>
 
 <p class="aligncenter">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djperezh&theme=solarized-dark" alt="dom-perez" />
+</p>
+
+<p>
+  <br>
+  <a href="https://about.me/domingoperez">
+    <img alt="aboutMe" src="https://img.shields.io/badge/About Me-yellow?logo=aboutdotme&logoColor=navy&style=for-the-badge" />
+  </a>
 </p>
