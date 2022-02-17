@@ -43,6 +43,7 @@ Software Engineer | DEI Advocate | Coffee drinker
   <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-F7DF1E?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+<br>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-yellowgreen?logo=typescript&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 </p>
@@ -70,13 +71,13 @@ Software Engineer | DEI Advocate | Coffee drinker
 
 <p>
 <a href="https://github.com/djperezh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=10" />
 </a>
 </p>
 
 <p>
 <a href="https://github.com/djperezh/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djperezh&theme=solarized-dark&show_icons=true&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djperezh&theme=solarized-dark&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />
 </a>
 </p>
 
