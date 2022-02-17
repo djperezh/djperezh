@@ -62,6 +62,21 @@ Software Engineer | DEI Advocate | Coffee drinker
   <img alt="Tech Interviewer" src="https://img.shields.io/badge/Tech Interviewer-yellow?logoColor=white&style=for-the-badge" />
 </p>
 
+
+> Experience
+<p>
+  <img alt="Volta" src="https://img.shields.io/badge/Volta-green?logoColor=white&style=for-the-badge" />
+  <img alt="DocuSign" src="https://img.shields.io/badge/DocuSign-yellowgreen?logoColor=white&style=for-the-badge" />
+  <img alt="Smartsheet" src="https://img.shields.io/badge/Smartsheet-3178C6?logoColor=white&style=for-the-badge" />
+  <br>
+  <img alt="Expedia" src="https://img.shields.io/badge/Expedia-yellow?logoColor=white&style=for-the-badge" />
+  <img alt="Efinancial" src="https://img.shields.io/badge/Efinancial-orange?logoColor=white&style=for-the-badge" />
+  <br>
+  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-336791?logoColor=white&style=for-the-badge" />
+  <img alt="Esurance" src="https://img.shields.io/badge/Esurance-9cf?logoColor=white&style=for-the-badge" />
+  <img alt="Walmart" src="https://img.shields.io/badge/Wal*Mart-red?logoColor=white&style=for-the-badge" />
+</p>
+
 ---
 
 # Articles
