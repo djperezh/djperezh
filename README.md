@@ -9,12 +9,16 @@ Software Engineer | DEI Advocate | Coffee drinker
   </a>
 </p>
 
-<p style="font-family:'verdana'"><b>
-With 15 years of experience as a Software Engineer (in Travel, Insurance, Retail and Tech industry), I enjoy approaching problems with analytical thinking in order to design, propose and implement creative solutions, always with attention to detail and considering the scalability aspect.
-<br>
-Recent experience delivering reliable products for e-Commerce and SaaS through Cloud Architecture solutions.
-Apart from Technology, and as an enthusiast of Diversity initiatives, I love to help and volunteer for my community and I also enjoy playing sports and music.
-</b><br></p>
+<p style="font-family:'verdana'">
+  <b>
+  With 15 years of experience as a Software Engineer (in Travel, Insurance, Retail and Tech industry), I enjoy approaching problems with analytical thinking in order to design, propose and implement creative solutions, always with attention to detail and considering the scalability aspect.
+  <br>
+  Recent experience delivering reliable products for e-Commerce and SaaS through Cloud Architecture solutions.
+  <br>
+  Apart from Technology, and as an enthusiast of Diversity initiatives, I love to help and volunteer for my community and I also enjoy playing sports and music.
+  </b>
+  <br>
+</p>
 
 ---
 
@@ -45,15 +49,15 @@ Apart from Technology, and as an enthusiast of Diversity initiatives, I love to 
 
 > Databases
 <p>
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-3178C6?logo=microsoft+sql+server&logoColor=white&style=for-the-badge" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL Server-red?logo=microsoft+sql+server&logoColor=white&style=for-the-badge" />
   <img alt="Dynamo" src="https://img.shields.io/badge/dynamo-336791?logo=amazondynamodb&logoColor=white&style=for-the-badge" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-orange?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-brightgreen?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
 > Other
 <p>
   <img alt="Agile" src="https://img.shields.io/badge/Agile-green?logoColor=white&style=for-the-badge" />
-  <img alt="Mentoring" src="https://img.shields.io/badge/Mentoring-orange?logoColor=white&style=for-the-badge" />
+  <img alt="Mentoring" src="https://img.shields.io/badge/Mentoring-3178C6?logoColor=white&style=for-the-badge" />
   <img alt="Tech Interviewer" src="https://img.shields.io/badge/Tech Interviewer-yellow?logoColor=white&style=for-the-badge" />
 </p>
 
@@ -65,7 +69,3 @@ Apart from Technology, and as an enthusiast of Diversity initiatives, I love to 
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&layout=compact&theme=nord)](https://github.com/djperezh/github-readme-stats)
-
-<!--
-[![How am I doing:](https://github-readme-stats.vercel.app/api?username=djperezh&count_private=true&show_icons=true&theme=nord&hide_rank=false&include_all_commits=true)](https://github.com/djperezh/github-readme-stats)
--->
