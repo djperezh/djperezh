@@ -1,5 +1,10 @@
+<!-- From: https://github.com/anuraghazra/github-readme-stats#readme -->
+
 # Dom Perez
+
+```
 Software Engineer | DEI Advocate | Coffee drinker
+```
 
 <p>
   <a href="https://www.linkedin.com/in/perezdom/">
@@ -10,13 +15,11 @@ Software Engineer | DEI Advocate | Coffee drinker
 </p>
 
 <p style="font-family:'verdana'">
-  <b>
   With 15 years of experience as a Software Engineer (in Travel, Insurance, Retail and Tech industry), I enjoy approaching problems with analytical thinking in order to design, propose and implement creative solutions, always with attention to detail and considering the scalability aspect.
   <br>
   Recent experience delivering reliable products for e-Commerce and SaaS through Cloud Architecture solutions.
   <br>
   Apart from Technology, and as an enthusiast of Diversity initiatives, I love to help and volunteer for my community and I also enjoy playing sports and music.
-  </b>
   <br>
 </p>
 
@@ -82,7 +85,7 @@ Software Engineer | DEI Advocate | Coffee drinker
 
 <p><br><br></p>
 <p class="aligncenter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=10&exclude_repo=fabmedical,ebooks" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=10&hide=css,html&exclude_repo=fabmedical,ebooks" />
 </p>
 
 <p class="aligncenter">
