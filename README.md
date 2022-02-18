@@ -81,7 +81,8 @@ Software Engineer | DEI Advocate | Coffee drinker
 
 # Articles
 > [Code Reviews 101](https://www.linkedin.com/pulse/code-reviews-101-domingo-perez)
-
+> 
+> [Containers 101](https://www.linkedin.com/pulse/containers-101-dom-perez)
 
 <p><br><br></p>
 <p class="aligncenter">
