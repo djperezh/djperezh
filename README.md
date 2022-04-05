@@ -40,7 +40,7 @@ Software Engineer | DEI Advocate | Coffee drinker
   <img alt="Monitoring" src="https://img.shields.io/badge/Monitoring-336791?logo=grafana&logoColor=white&style=for-the-badge" />
 </p>
 
-> Languages
+> Languages | Frameworks
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-3776AB?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
