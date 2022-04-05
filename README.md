@@ -2,6 +2,8 @@
 
 # Dom Perez
 
+> He/Him
+
 ```
 Software Engineer | DEI Advocate | Coffee drinker
 ```
