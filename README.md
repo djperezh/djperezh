@@ -2,7 +2,7 @@
 
 # Dom Perez
 
-> He/Him
+> He / Him
 
 ```
 Software Engineer | DEI Advocate | Coffee drinker
