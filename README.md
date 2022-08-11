@@ -69,9 +69,9 @@ Software Engineer | Tech4Good Enthusiast | DEI Advocate | Coffee drinker ☕
 
 # Professional Journey
 <p>
-  <img alt="Climate LLC" src="https://img.shields.io/badge/Current-Climate-yellowgreen?logoColor=white&style=for-the-badge" />
+  <img alt="Climate LLC | Bayer" src="https://img.shields.io/badge/Current-Climate-yellowgreen?logoColor=white&style=for-the-badge" />
   <br>
-  <img alt="Volta" src="https://img.shields.io/badge/2022-Volta-9cf?logoColor=white&style=flat-square" />
+  <img alt="Volta Charging" src="https://img.shields.io/badge/2022-Volta-9cf?logoColor=white&style=flat-square" />
   <img alt="DocuSign" src="https://img.shields.io/badge/2021-DocuSign-yellowgreen?logoColor=white&color=2bbc8a&style=flat-square" />
   <img alt="Smartsheet" src="https://img.shields.io/badge/2020-Smartsheet-3178C6?logoColor=white&style=flat-square" />
   <img alt="Expedia" src="https://img.shields.io/badge/2018-Expedia-yellow?logoColor=white&style=flat-square" />
