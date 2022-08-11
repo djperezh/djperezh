@@ -69,12 +69,14 @@ Software Engineer | Tech4Good Enthusiast | DEI Advocate | Coffee drinker ☕
 
 # Professional Journey
 <p>
-  <img alt="Volta" src="https://img.shields.io/badge/Current-Volta-yellowgreen?logoColor=white&style=for-the-badge" />
+  <img alt="Climate LLC" src="https://img.shields.io/badge/Current-Climate-yellowgreen?logoColor=white&style=for-the-badge" />
   <br>
+  <img alt="Volta" src="https://img.shields.io/badge/Current-Volta-9cf?logoColor=white&style=for-the-badge" />
   <img alt="DocuSign" src="https://img.shields.io/badge/2021-DocuSign-yellowgreen?logoColor=white&color=2bbc8a&style=flat-square" />
   <img alt="Smartsheet" src="https://img.shields.io/badge/2020-Smartsheet-3178C6?logoColor=white&style=flat-square" />
   <img alt="Expedia" src="https://img.shields.io/badge/2018-Expedia-yellow?logoColor=white&style=flat-square" />
   <img alt="Efinancial" src="https://img.shields.io/badge/2014-Efinancial-orange?logoColor=white&style=flat-square" />
+  <br>
   <img alt="Microsoft" src="https://img.shields.io/badge/2012-Microsoft-336791?logoColor=white&style=flat-square" />
   <img alt="Esurance" src="https://img.shields.io/badge/2010-Esurance-9cf?logoColor=white&style=flat-square" />
   <img alt="Walmart" src="https://img.shields.io/badge/2008-Wal*Mart-red?logoColor=white&style=flat-square" />
