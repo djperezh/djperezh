@@ -17,11 +17,11 @@ Software Engineer | Tech-For-Good Advocate | Coffee drinker ☕
 </p>
 
 <p style="font-family:'verdana'">
-  With 15 years of experience as a Software Engineer (in Travel, Insurance, Retail and Tech industry), I enjoy approaching problems with analytical thinking in order to design, propose and implement creative solutions, always with attention to detail and considering the scalability aspect.
+ With +15 years of experience in Software Engineering, I enjoy approaching problems with analytical thinking in order to design, propose and implement creative solutions, always with attention to detail and considering the scalability and resiliency aspect.
   <br>
-  Recent experience delivering reliable products for e-Commerce and SaaS through Cloud Architecture solutions.
+  Recent experience delivering reliable products through Cloud Architecture solutions. 
   <br>
-  Apart from Technology, and as an enthusiast of Diversity initiatives, I love to help and volunteer for my community and I also enjoy playing sports and music.
+  Apart from Technology, as an enthusiast of Diversity initiatives, I love to help and volunteer for my community and I also enjoy playing sports and music.
   <br>
 </p>
 
