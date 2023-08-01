@@ -89,19 +89,6 @@ Software Engineer | Tech-For-Good Advocate | Coffee drinker ☕
 > 
 > [Containers 101](https://www.linkedin.com/pulse/containers-101-dom-perez)
 
-<p><br><br></p>
-<p class="aligncenter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djperezh&theme=solarized-dark&layout=compact&langs_count=10&hide=css,html&exclude_repo=fabmedical,ebooks" />
-</p>
-
-<p class="aligncenter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djperezh&theme=solarized-dark&show_icons=true&hide=issues&count_private=true&include_all_commits=true" />
-</p>
-
-<p class="aligncenter">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djperezh&theme=solarized-dark" alt="dom-perez" />
-</p>
-
 <p>
   <br>
   <a href="https://about.me/domingoperez">
