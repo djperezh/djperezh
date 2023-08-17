@@ -21,7 +21,7 @@ Software Engineer | Tech-For-Good Enthusiast | DEI Advocate | Coffee drinker ☕
   <br>
   Recent experience delivering reliable products through Cloud Architecture solutions. 
   <br>
-  Apart from Technology, as an enthusiast of Diversity initiatives, I love to help and volunteer for my community and I also enjoy playing sports and music.
+  Apart from Technology, as an enthusiast of Diversity initiatives, I love helping and volunteering for my community and I also enjoy playing sports and music.
   <br>
 </p>
 
