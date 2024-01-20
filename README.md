@@ -91,7 +91,7 @@ Software Engineer | Tech-For-Good Enthusiast | DEI Advocate | Coffee drinker ☕
 
 <p>
   <br>
-  <a href="https://about.me/domingoperez">
+  <a href="https://domperez.net">
     <img alt="aboutMe" src="https://img.shields.io/badge/About Me-yellow?logo=aboutdotme&logoColor=navy&style=for-the-badge" />
   </a>
 </p>
