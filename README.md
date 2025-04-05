@@ -69,7 +69,7 @@ Professional Engineer | Tech Lead | Coffee drinker ☕
 
 # Professional Journey
 <p>
-  <img alt="Climate" src="https://img.shields.io/badge/Current-Climate (Bayer)-yellowgreen?logoColor=white&style=for-the-badge" />
+  <img alt="Bayer" src="https://img.shields.io/badge/Current-Bayer-yellowgreen?logoColor=white&style=for-the-badge" />
   <br>
   <img alt="Volta Charging" src="https://img.shields.io/badge/2022-Volta-9cf?logoColor=white&style=flat-square" />
   <img alt="DocuSign" src="https://img.shields.io/badge/2021-DocuSign-yellowgreen?logoColor=white&color=2bbc8a&style=flat-square" />
