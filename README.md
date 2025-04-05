@@ -5,7 +5,7 @@
 > He / Him
 
 ```
-Software Engineer | Tech-For-Good Enthusiast | DEI Advocate | Coffee drinker ☕
+Professional Engineer | Tech Lead | Coffee drinker ☕
 ```
 
 <p>
